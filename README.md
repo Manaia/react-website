@@ -1,4 +1,4 @@
-# Node API with MongoDB
+# React
 
 A project to work with a Javascript library React
 
