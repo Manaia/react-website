@@ -1,0 +1,16 @@
+:root {
+    --main-color: #DA552F;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #FAFAFA;
+    color: #333;
+}
